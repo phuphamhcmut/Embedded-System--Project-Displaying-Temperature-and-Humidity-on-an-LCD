@@ -1,1 +1,2 @@
-# Embedded-System--Project-Displaying-Temperature-and-Humidity-on-an-LCD
+<h1 align="center">
+Display Temperature and Humidity on LCD
